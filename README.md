@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Full Stack Developer with experience primarily in the development of cloud-native applications using microservices (SpringBoot and Node.js / Express.js), Angular, AWS and Dockers / Kubernetes.
+
+Additionally, I have also completed multiple courses and projects, in my masters, related to machine learning, visual analytics, data warehousing, ETL process (Map Reduce - Spark / Hadoop) and BI-tools (IBM Cognos, Tableau).
 <!--
 **sriram-ponangi/sriram-ponangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
